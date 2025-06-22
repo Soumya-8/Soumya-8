@@ -10,7 +10,7 @@
 ### 🧰 Tech Stack
 - Python, Pandas, NumPy, Matplotlib, scikit-learn  
 - Jupyter, GitHub, SQL  
-- Basics of Flutter, C++
+- Basics of C++
 
 ### 🧗 Goals
 - Build strong GitHub projects in finance + data science  
@@ -20,7 +20,7 @@
 ### 🌐 Let's connect:
 📧 Email: soumya.updhya@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/soumya-upadhyaya](https://www.linkedin.com/in/soumya-upadhyaya-97a709189)  
-📸 Instagram: soumya.upd.83  
+📸 Instagram: soumya.upd 
 
 
 ![](https://komarev.com/ghpvc/?username=Soumya-8&color=green)
