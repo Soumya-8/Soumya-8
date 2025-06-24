@@ -3,7 +3,6 @@
 🎓 Electrical Engineer from NIT Raipur  
 📊 Currently working as a Relationship Manager at ICICI Bank  
 🧮 Passionate about combining **Finance, Data Science, and Python**  
-📚 Preparing for GRE 2025 (aiming for MFE abroad – Fall 2026)  
 💡 Learning Quantitative Finance, Data Analytics, and ML  
 👩‍💻 Exploring financial modeling, portfolio optimization & credit risk analytics
 
