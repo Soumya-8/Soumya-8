@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Soumya!
 
-🎓 Electrical Engineer from NIT Raipur  
-📊 FinTech Founder @Vyaparscore 
-🧮 Passionate about combining **Finance, Data Science, and Python** 
-💡 Learning Quantitative Finance, Data Analytics, and ML  
-👩‍💻 Exploring financial modeling, portfolio optimization & credit risk analytics
+-🎓 Electrical Engineer from NIT Raipur  
+-📊 FinTech Founder @Vyaparscore 
+-🧮 Passionate about combining **Finance, Data Science, and Python** 
+-💡 Learning Quantitative Finance, Data Analytics, and ML  
+-👩‍💻 Exploring financial modeling, portfolio optimization & credit risk analytics
 
 ### 🧰 Tech Stack
 - Python, Pandas, NumPy, Matplotlib, scikit-learn  
