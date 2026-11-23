@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Soumya!
 
 🎓 Electrical Engineer from NIT Raipur  
-📊 Currently working as a Relationship Manager at ICICI Bank  
-🧮 Passionate about combining **Finance, Data Science, and Python**  
+📊 FinTech Founder @Vyaparscore 
+🧮 Passionate about combining **Finance, Data Science, and Python** 
 💡 Learning Quantitative Finance, Data Analytics, and ML  
 👩‍💻 Exploring financial modeling, portfolio optimization & credit risk analytics
 
